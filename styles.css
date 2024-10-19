@@ -1,4 +1,8 @@
-#Hoja de stylo
-. titulo{
+/* Hoja de stylo */
+.titulo{
 	background: blue;
+	font-size: large;
+	color: red;
+	padding: auto;
+	text-align: center;
 }
